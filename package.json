@@ -1,0 +1,24 @@
+{
+    "name": "symblaisnippets",
+    "displayName": "Symbl.ai API Snippets [Drill Down]",
+    "description": "Generate code snippets for Symbl.ai Conversation Intelligence API",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/js_snippets.code-snippets"
+            }
+        ]
+    }
+}
