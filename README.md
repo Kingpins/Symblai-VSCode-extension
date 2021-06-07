@@ -8,7 +8,14 @@ This extension is developed along side DRILL DOWN, which is a technology that al
 
 ## How it works?
 
-\!\[\]\(extensionGraphics/slide1.png\)
+- Install the extension
+- Open your python or javascript file
+- Use '?' key letter followed by use case such as conversation, access_token etc
+- Code snippet will appear, click enter and add code to your file.
+
+<img src="https://github.com/Kingpins/Symblai-VSCode-extension/blob/main/images/Slide1.PNG" width="600px">
+<img src="https://github.com/Kingpins/Symblai-VSCode-extension/blob/main/images/Slide2.PNG" width="600px">
+<img src="https://github.com/Kingpins/Symblai-VSCode-extension/blob/main/images/Slide3.PNG" width="600px">
 
 
 ## What is Symbol.ai?
